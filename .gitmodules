@@ -1,0 +1,18 @@
+[submodule "external_submodules/tree-sitter-solidity"]
+	path = external_submodules/tree-sitter-solidity
+	url = https://github.com/JoranHonig/tree-sitter-solidity
+[submodule "external_submodules/tree-sitter-typescript"]
+	path = external_submodules/tree-sitter-typescript
+	url = https://github.com/tree-sitter/tree-sitter-typescript
+[submodule "external_submodules/tree-sitter-javascript"]
+	path = external_submodules/tree-sitter-javascript
+	url = https://github.com/tree-sitter/tree-sitter-javascript
+[submodule "external_submodules/tree-sitter-html"]
+	path = external_submodules/tree-sitter-html
+	url = https://github.com/tree-sitter/tree-sitter-html
+[submodule "external_submodules/tree-sitter-css"]
+	path = external_submodules/tree-sitter-css
+	url = https://github.com/tree-sitter/tree-sitter-css
+[submodule "external_submodules/tree-sitter-json"]
+	path = external_submodules/tree-sitter-json
+	url = https://github.com/tree-sitter/tree-sitter-json
